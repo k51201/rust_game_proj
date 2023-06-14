@@ -1,4 +1,5 @@
 ### Game project, written for Ultimate Rust 2 course on Udemy (https://www.udemy.com/course/ultimate-rust-2/)
+This project just tests different features of Rusty Engine
 
 Don't forget to download assets for Rusty Engine
 ```bash
